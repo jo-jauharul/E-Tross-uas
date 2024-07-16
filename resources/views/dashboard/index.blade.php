@@ -67,7 +67,7 @@
                     <table>
                         <thead>
                             <tr>
-                                <th>Project</th>
+                                <th>Product</th>
                                 <th>Start Date</th>
                                 <th>End Date</th>
                                 <th>Assigned To</th>
@@ -76,7 +76,7 @@
                         </thead>
                         <tbody>
                             <tr>
-                                <td>Stocko App Dev</td>
+                                <td>Tenun Blanket</td>
                                 <td>1 Jan, 2021</td>
                                 <td>2 Feb, 2021</td>
                                 <td class="td-team">
@@ -90,65 +90,6 @@
                                     <span class="badge success">Success</span>
                                 </td>
                             </tr>
-
-                            <tr>
-                                <td>Linkskills App Dev</td>
-                                <td>27 Feb, 2021</td>
-                                <td>2 Apl, 2021</td>
-                                <td class="td-team">
-                                    <div class="img-1"></div>
-                                    <div class="img-1"></div>
-                                    <div class="img-1"></div>
-                                    <div class="img-1"></div>
-                                </td>
-                                <td>
-                                    <span class="badge warning">Processing</span>
-                                </td>
-                            </tr>
-
-                            <tr>
-                                <td>PWD recruitement</td>
-                                <td>1 Jun, 2021</td>
-                                <td>2 Dec, 2021</td>
-                                <td class="td-team">
-                                    <div class="img-1"></div>
-                                </td>
-                                <td>
-                                    <span class="badge warning">Processing</span>
-                                </td>
-                            </tr>
-
-                            <tr>
-                                <td>DataScience Bootcamp</td>
-                                <td>1 Jun, 2021</td>
-                                <td>2 Dec, 2021</td>
-                                <td class="td-team">
-                                    <div class="img-1"></div>
-                                    <div class="img-1"></div>
-                                </td>
-                                <td>
-                                    <span class="badge success">Success</span>
-                                </td>
-                            </tr>
-
-                            <tr>
-                                <td>POES development</td>
-                                <td>1 Jun, 2021</td>
-                                <td>2 Dec, 2021</td>
-                                <td class="td-team">
-                                    <div class="img-1"></div>
-                                    <div class="img-1"></div>
-                                    <div class="img-1"></div>
-                                    <div class="img-1"></div>
-                                </td>
-                                <td>
-                                    <span class="badge success">Success</span>
-                                </td>
-                            </tr>
-                        </tbody>
-                    </table>
-                </div>
-
                 <div class="summary">
                     <div class="summery-card">
                         <div class="summery-single">

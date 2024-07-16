@@ -95,6 +95,14 @@ class ProductSeeder extends Seeder
             'gallery'=>'img/tenun10.jpeg',
             'stock' => 20
             ],
+            [
+            'name'=>'Kaos',
+            'price'=>250000,
+            'description'=>'Tenun Ikat Berwarna Biru',
+            'category'=>'kain',
+            'gallery'=>'img/kaos11.jpeg',
+            'stock' => 20
+            ],
         ]);
     }
 }

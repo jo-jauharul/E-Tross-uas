@@ -17,12 +17,7 @@ class ProductController extends Controller
         
         return view('index',['products'=>$data]);
     }
-    function product()
-    {
-        
-        
-        
-    }
+
     public function kain()
     {
         $title = "Kain";
